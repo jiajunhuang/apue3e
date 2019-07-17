@@ -5,3 +5,4 @@ build:
 	gcc -o bin/errno errno.c
 	gcc -o bin/uidgid uidgid.c
 	gcc -o bin/signal signal.c
+	gcc -o bin/lseek lseek.c
