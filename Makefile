@@ -9,3 +9,4 @@ build:
 	gcc -o bin/read_write read_write.c
 	gcc -o bin/lstat lstat.c
 	gcc -o bin/umask umask.c
+	gcc -o bin/chdir chdir.c
