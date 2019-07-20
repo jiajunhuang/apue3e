@@ -11,3 +11,4 @@ build:
 	gcc -o bin/umask umask.c
 	gcc -o bin/chdir chdir.c
 	gcc -o bin/time time.c
+	gcc -o bin/atexit atexit.c
